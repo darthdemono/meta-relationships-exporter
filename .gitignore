@@ -1,0 +1,4 @@
+# Exported lists name other people. Never commit them.
+instagram-relationships.json
+facebook-friends.json
+*.json
